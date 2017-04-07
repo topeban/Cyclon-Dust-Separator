@@ -1,9 +1,13 @@
 # Cyclon-Dust-Separator
 Cyclon Dust Separartor for my Shop Vac Cleaner 
 
-A found the idea at Heidelberg-Makerspace
+A found the idea at Heidelberg-Makerspace   
+
     https://github.com/heidelberg-makerspace/do-something/issues/119
-On youtube there are many video , thes best -for me- ist below , because he use Acrylglas (Plexiglas)
+    
+On youtube there are many video ,   
+the best -for me- ist below , because he use Acrylglas (Plexiglas)
+
     https://www.youtube.com/watch?v=PWikab7zGhA
 
 The Cyclon is for mounting between Motor-Block and Waste-Can
